@@ -1,0 +1,18 @@
+h1{
+    color: cadetblue;
+    padding: 25px;
+    margin: 0%;
+}
+p{
+    color: cadetblue;
+    padding: 25px;
+    margin: 0%;
+}
+.div4 {
+    width:800px;
+    height:650px;
+    background-color: rgb(103, 179, 135);
+    margin-top: 10px;
+    background-image: radial-gradient(circle,pink,blue,green, yellow, red);
+    text-align: center;
+}

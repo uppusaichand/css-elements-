@@ -1,6 +1,3 @@
-nav{
-    background: linear-gradient(to right ,yellow,red);
-}
 h1{
     color: blue;
     padding: 20px;
@@ -13,4 +10,9 @@ p{
     padding: 20px;
     margin: 10px;
     font-size: 40px; 
+}
+nav{
+    background:linear-gradient(to bottom, yellow,pink,red,green);
+    width: 100%;
+    
 }
