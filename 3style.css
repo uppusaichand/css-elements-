@@ -1,0 +1,27 @@
+section{
+    display: inline-block;
+    width: 45%;
+    height: 100px;
+    background-color: chartreuse;
+}
+aside{
+    display: inline-block;
+    width: 54%;
+    height: 100px;
+    background-color: crimson;
+}
+@media screen and (max-width:500px)
+{
+    section{
+        display: block;
+        width: 100%;
+        height: 100px;
+        background:linear-gradient(to right,red,yellow)
+}
+aside{
+    display: block;
+    width: 100%;
+    height: 100px;
+    background:radial-gradient(cricle,red,yellow,green)
+}
+}
