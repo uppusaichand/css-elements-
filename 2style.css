@@ -1,0 +1,18 @@
+article{
+    display: inline-block;
+    background-color: lightpink;
+    padding: 25px;
+    text-align: center;
+    color: brown;
+    font-size: 25px;
+    border-radius: 25px;
+    margin-left: 37%;
+    box-shadow: rgb(14, 193, 199) 5px 5px 3px;
+}
+article img{
+    background-color:lemonchiffon;
+    padding: 5px;
+    width: 15vw;
+    height: 20vh;
+    text-align: center;
+} 
